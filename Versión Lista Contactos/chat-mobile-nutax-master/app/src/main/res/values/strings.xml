@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CS2B01 - CHAT</string>
+    <string name="title_chat_list">Chat</string>
+    <string name="title_chat_detail">Chat Detail</string>
+</resources>
